@@ -1,0 +1,23 @@
+# Some colors (R, G, B)
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+DARKGREY = (40, 40, 40)
+LIGHTGREY = (100, 100, 100)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
+YELLOW = (255, 255, 0)
+
+# Game settings
+WIDTH = 1024
+HEIGHT = 512
+FPS = 60
+TITLE = "Isometric Farm Demo"
+BGCOLOR = DARKGREY
+
+# Grid settings
+W = 20
+H = 20
+TILEWIDTH = 32
+TILEHEIGHT = 16
+TILEHEIGHT_HALF = TILEHEIGHT / 2
+TILEWIDTH_HALF = TILEWIDTH / 2

@@ -1,0 +1,201 @@
+plant,soil type,soil moisture,clouds,temperature,part of day,water reservoir,needwatering
+carrot,sandy,0.99,yes,19,night,76,no
+carrot,sandy loam,0.52,yes,10,evening,63,yes
+carrot,silty clay,0.8,no,0,night,54,no
+wheat,sandy loam,0.72,no,-5,day,80,no
+carrot,silty clay,0.73,no,25,morning,48,yes
+carrot,loam,0.43,yes,29,evening,8,yes
+wheat,loam,0.61,no,20,day,31,no
+corn,sandy,0.9,no,15,night,98,no
+wheat,sandy loam,0.96,yes,28,night,95,no
+wheat,sandy,0.29,no,-1,day,12,no
+corn,silty clay,0.66,yes,-5,evening,60,no
+wheat,sandy,0.52,yes,-2,night,4,no
+wheat,sandy,0.07,no,20,night,38,yes
+wheat,sandy,0.71,no,30,morning,78,no
+carrot,silty clay,0.91,yes,-1,morning,45,no
+corn,sandy loam,0.11,no,23,day,10,yes
+carrot,silty clay,0.25,yes,7,morning,77,yes
+carrot,loam,0.18,no,28,night,71,yes
+carrot,silty clay,0.56,yes,6,day,97,yes
+wheat,sandy,0.78,yes,30,day,57,no
+corn,loam,0.16,yes,-4,evening,21,no
+wheat,sandy loam,0.95,no,15,day,72,no
+wheat,silty clay,0.55,yes,-3,night,41,no
+wheat,sandy,0.58,no,13,day,13,yes
+carrot,silty clay,0.28,no,9,night,77,yes
+carrot,sandy,0.31,yes,6,night,82,yes
+carrot,silty clay,0.56,no,27,evening,68,yes
+corn,silty clay,0.66,no,23,day,54,no
+wheat,loam,0.2,no,24,morning,84,yes
+wheat,loam,0.76,no,23,morning,73,no
+carrot,silty clay,0.53,yes,32,night,28,no
+wheat,sandy loam,0.1,yes,3,evening,71,yes
+corn,sandy loam,0.96,no,11,morning,82,no
+corn,silty clay,0.19,yes,16,night,88,no
+wheat,sandy loam,0.3,no,2,night,81,no
+wheat,sandy loam,0.15,no,14,morning,86,yes
+wheat,sandy,0.04,no,11,morning,24,yes
+carrot,sandy loam,0.65,no,8,night,8,no
+corn,loam,0.39,no,32,morning,84,yes
+corn,silty clay,0.63,yes,24,morning,97,no
+wheat,loam,0.42,no,35,morning,52,yes
+corn,loam,0.65,yes,33,day,31,no
+corn,loam,0.88,no,2,morning,95,no
+wheat,loam,0.62,yes,28,morning,61,no
+carrot,silty clay,0.83,no,6,day,30,no
+wheat,sandy,0.6,yes,20,morning,83,no
+corn,sandy,0.43,no,26,evening,0,no
+carrot,sandy,0.9,yes,18,evening,64,no
+carrot,silty clay,0.53,no,19,night,26,no
+carrot,sandy loam,0.95,yes,4,evening,85,no
+carrot,loam,0.02,no,20,day,75,yes
+corn,silty clay,0.81,no,17,night,35,no
+corn,sandy,0.14,yes,2,morning,97,yes
+corn,silty clay,0.07,no,6,morning,0,no
+wheat,sandy loam,0.2,no,22,evening,38,yes
+carrot,sandy loam,0.7,no,14,night,91,no
+carrot,sandy,0.16,yes,7,morning,94,yes
+wheat,sandy,0.96,yes,20,morning,10,no
+carrot,sandy loam,0.77,no,33,morning,77,yes
+corn,silty clay,0.36,yes,24,night,67,no
+carrot,sandy,0.22,no,22,evening,35,yes
+wheat,silty clay,0.8,yes,29,evening,31,no
+carrot,silty clay,0.65,no,20,evening,28,yes
+carrot,silty clay,0.72,no,5,night,21,no
+carrot,sandy loam,0.17,no,13,evening,25,yes
+carrot,sandy,0.12,yes,30,evening,96,yes
+carrot,sandy loam,0.19,no,12,night,4,yes
+wheat,sandy loam,0.19,yes,29,day,90,yes
+corn,sandy,0.34,yes,33,night,8,no
+wheat,silty clay,0.46,no,15,day,66,yes
+corn,silty clay,0.37,yes,15,evening,72,yes
+corn,loam,0.7,yes,21,day,56,no
+carrot,sandy,0.14,no,1,night,52,yes
+corn,loam,0.02,yes,16,night,74,yes
+carrot,silty clay,0.75,no,34,morning,39,yes
+corn,loam,0.42,no,29,evening,49,no
+carrot,sandy,0.05,yes,18,evening,4,yes
+carrot,sandy loam,0.59,no,9,day,98,yes
+corn,sandy,0.24,no,24,evening,36,yes
+carrot,silty clay,0.07,yes,29,morning,67,yes
+wheat,silty clay,0.59,no,8,day,29,no
+wheat,sandy,0.64,no,27,evening,95,no
+corn,sandy,0.4,no,12,night,77,no
+wheat,sandy,0.51,no,10,night,63,no
+corn,sandy loam,0.89,no,6,night,80,no
+carrot,loam,0.07,no,-2,night,21,no
+carrot,sandy,0.12,no,33,evening,6,yes
+carrot,silty clay,0.64,yes,15,morning,13,yes
+carrot,sandy,0.09,no,13,night,12,yes
+wheat,sandy loam,0.32,yes,27,day,47,yes
+carrot,loam,0.54,no,11,day,80,yes
+corn,silty clay,1,yes,9,night,6,no
+corn,sandy,0.03,yes,2,day,54,yes
+wheat,sandy loam,0.71,no,-3,evening,6,no
+carrot,sandy,0.67,no,13,night,98,no
+corn,sandy,0.46,yes,7,day,64,no
+carrot,silty clay,0.39,yes,4,morning,2,yes
+wheat,loam,0.2,no,23,day,100,yes
+carrot,sandy loam,0.92,yes,7,night,93,no
+corn,sandy,0.36,no,11,day,55,no
+carrot,silty clay,0.25,no,21,night,52,yes
+carrot,loam,0.83,yes,24,night,7,no
+corn,silty clay,0.02,no,32,morning,33,yes
+wheat,silty clay,0.71,yes,27,morning,26,no
+wheat,loam,0,no,7,evening,19,yes
+corn,sandy,0.48,no,-1,evening,21,no
+corn,sandy loam,0.69,no,13,day,4,no
+wheat,loam,0.19,yes,29,morning,64,yes
+carrot,silty clay,0.8,yes,10,evening,11,no
+corn,silty clay,0.34,no,32,night,92,no
+corn,sandy,0.79,no,30,morning,38,no
+wheat,sandy loam,0.46,yes,29,day,89,yes
+wheat,sandy,0.93,yes,-5,evening,56,no
+corn,loam,0.3,no,28,morning,76,yes
+carrot,silty clay,0.94,no,20,day,82,no
+corn,sandy loam,0.93,no,4,evening,6,no
+wheat,sandy loam,0.12,yes,8,morning,31,yes
+carrot,sandy loam,0.14,no,-4,night,63,no
+wheat,sandy,0.52,no,8,day,98,no
+carrot,sandy,0.84,yes,12,evening,32,no
+corn,sandy,0.42,no,11,evening,90,no
+carrot,loam,0.45,no,15,night,81,yes
+carrot,loam,0.11,yes,35,night,76,yes
+corn,sandy,0.03,no,33,evening,72,yes
+wheat,sandy loam,0.28,no,20,evening,52,yes
+corn,silty clay,0.61,yes,0,evening,19,no
+corn,sandy,0.59,no,5,morning,86,no
+corn,sandy loam,0.17,yes,14,evening,48,yes
+carrot,sandy loam,0.1,no,3,morning,91,yes
+corn,silty clay,0.87,no,4,night,55,no
+wheat,sandy loam,0.7,no,23,evening,70,no
+wheat,silty clay,0.73,no,5,night,42,no
+wheat,sandy loam,0.08,no,32,night,73,yes
+corn,sandy loam,0.81,no,1,night,15,no
+carrot,silty clay,0.68,no,33,night,2,no
+corn,sandy loam,0.43,yes,33,morning,21,yes
+corn,sandy loam,0.4,no,35,morning,78,yes
+corn,loam,0.56,no,5,evening,80,no
+corn,sandy,0.11,yes,18,night,50,yes
+wheat,sandy loam,0.32,yes,22,morning,26,yes
+wheat,sandy loam,0.91,no,19,morning,21,no
+wheat,sandy loam,0.09,yes,31,night,66,yes
+wheat,silty clay,0.61,no,23,night,35,no
+wheat,loam,0.67,no,11,morning,41,no
+wheat,loam,0.04,yes,12,night,52,yes
+corn,sandy loam,0.96,no,-1,evening,71,no
+wheat,sandy loam,0.11,no,3,morning,41,yes
+carrot,sandy,0.87,no,10,day,48,no
+wheat,loam,0.07,yes,6,day,79,yes
+corn,silty clay,0.72,no,1,day,16,no
+corn,sandy,0.27,no,1,night,67,no
+carrot,sandy loam,0.48,yes,5,night,55,no
+carrot,sandy loam,0.71,yes,-1,morning,33,no
+carrot,silty clay,0.67,no,17,night,78,no
+wheat,silty clay,0.69,yes,24,day,32,no
+carrot,loam,0.27,no,-5,day,4,no
+corn,sandy,0.82,yes,7,evening,23,no
+carrot,sandy,0.09,no,-4,evening,17,no
+carrot,loam,0.07,no,35,day,14,yes
+carrot,loam,0.39,no,22,evening,3,yes
+carrot,silty clay,0.47,yes,24,night,27,no
+wheat,sandy,0.9,yes,26,evening,33,no
+carrot,sandy loam,0.25,yes,24,morning,65,yes
+corn,sandy,0.39,no,27,evening,99,no
+wheat,silty clay,0.61,yes,10,day,29,no
+wheat,silty clay,0.2,no,30,day,53,yes
+carrot,sandy loam,0.79,no,1,night,6,no
+corn,sandy loam,0.23,no,12,morning,30,yes
+carrot,loam,0.65,yes,21,day,24,yes
+carrot,sandy,0.19,no,-5,morning,30,no
+wheat,sandy loam,0.71,yes,18,morning,41,no
+wheat,sandy,0.31,no,4,night,21,no
+carrot,loam,0.96,no,8,night,42,no
+wheat,silty clay,0.22,yes,3,evening,46,yes
+wheat,silty clay,0.86,yes,11,morning,36,no
+corn,silty clay,0.05,yes,20,morning,43,yes
+wheat,silty clay,0.38,no,25,evening,51,yes
+corn,loam,0.95,no,32,night,99,no
+carrot,silty clay,0.91,yes,-5,day,69,no
+carrot,sandy loam,0.01,yes,35,evening,15,yes
+corn,silty clay,0.33,yes,19,night,41,no
+carrot,sandy,0.65,no,27,morning,73,yes
+wheat,sandy,0.97,no,24,morning,57,no
+carrot,loam,0.35,no,0,evening,83,yes
+carrot,sandy,0.68,yes,-1,morning,11,no
+wheat,sandy,0.63,no,35,day,69,no
+corn,sandy,0.05,yes,11,day,90,yes
+carrot,sandy,0.21,no,4,evening,61,yes
+carrot,silty clay,0.63,yes,18,morning,7,yes
+carrot,sandy,0.44,yes,29,night,72,yes
+carrot,loam,0.01,no,12,night,0,yes
+corn,silty clay,0.97,yes,20,night,41,no
+corn,silty clay,0.48,no,-1,night,15,no
+corn,loam,0.89,no,1,morning,7,no
+carrot,loam,0.31,yes,30,morning,95,yes
+carrot,loam,0.78,yes,27,evening,23,no
+corn,sandy loam,0.66,no,15,day,94,no
+wheat,sandy loam,0.86,yes,6,night,41,no
+carrot,loam,0.93,no,6,evening,19,no
+corn,silty clay,0.63,yes,11,day,11,no
